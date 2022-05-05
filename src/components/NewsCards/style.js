@@ -6,6 +6,24 @@ const styles = makeStyles({
         width: '100%',
         margin: '0'
     }
+    ,
+    card: {
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        width: '100%',
+        height: '45vh',
+        padding: 10,
+        color: 'white',
+        borderRadius: '12px'
+    }
+    ,
+    infoCard: {
+        display: 'flex',
+        flexDirection: 'column',
+        textAlign: 'center'
+    }
 });
 
 export default styles;
