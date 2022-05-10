@@ -14,9 +14,9 @@ const styles = makeStyles({
         alignItems: 'center',
         width: '100%',
         height: '45vh',
-        padding: 10,
+        padding: '10%',
         color: 'white',
-        borderRadius: '12px'
+        borderRadius: 10
     }
     ,
     infoCard: {
